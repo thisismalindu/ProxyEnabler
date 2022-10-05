@@ -9,6 +9,7 @@ I am talking about this:
 This takes a lot of clicks and often times Windows Search just messes up my search query and its really painful when I just want to turn this on and off.
 
 So I made my own tool to do this that can stay on top of other Windows and the UI is very small so it won't distract you from your work. When installed, it creates an entry in the startup folder so that it runs everytime you boot up your computer!
+
 ![image](https://user-images.githubusercontent.com/39488765/194080593-846dd015-e64e-4a33-9928-d7e1e7a59f4e.png)
 
 Once installed it will run and stay on the top of the screen. The place cannot be adjusted right now but I am planning on implementing it.
