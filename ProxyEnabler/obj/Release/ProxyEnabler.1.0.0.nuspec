@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProxyEnabler</id>
+    <version>1.0.0</version>
+    <authors>ProxyEnabler</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Release\net6.0-windows\ProxyEnabler.runtimeconfig.json" target="lib\net6.0-windows7.0\ProxyEnabler.runtimeconfig.json" />
+    <file src="D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Release\net6.0-windows\ProxyEnabler.dll" target="lib\net6.0-windows7.0\ProxyEnabler.dll" />
+  </files>
+</package>

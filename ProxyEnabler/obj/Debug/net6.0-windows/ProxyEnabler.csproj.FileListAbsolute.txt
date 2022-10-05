@@ -1,0 +1,17 @@
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Debug\net6.0-windows\ProxyEnabler.exe
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Debug\net6.0-windows\ProxyEnabler.deps.json
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Debug\net6.0-windows\ProxyEnabler.runtimeconfig.json
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Debug\net6.0-windows\ProxyEnabler.dll
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Debug\net6.0-windows\ProxyEnabler.pdb
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.csproj.AssemblyReference.cache
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.Form1.resources
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.csproj.GenerateResource.cache
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.AssemblyInfoInputs.cache
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.AssemblyInfo.cs
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.csproj.CoreCompileInputs.cache
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.dll
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\refint\ProxyEnabler.dll
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.pdb
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ProxyEnabler.genruntimeconfig.cache
+D:\repos\vs\ProxyEnabler\ProxyEnabler\obj\Debug\net6.0-windows\ref\ProxyEnabler.dll

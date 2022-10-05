@@ -1,0 +1,5 @@
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Release\net6.0-windows\publish\ProxyEnabler.exe
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Release\net6.0-windows\publish\ProxyEnabler.dll
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Release\net6.0-windows\publish\ProxyEnabler.deps.json
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Release\net6.0-windows\publish\ProxyEnabler.runtimeconfig.json
+D:\repos\vs\ProxyEnabler\ProxyEnabler\bin\Release\net6.0-windows\publish\ProxyEnabler.pdb
